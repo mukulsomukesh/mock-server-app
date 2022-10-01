@@ -1,64 +1,153 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
-      },
-      {
-        "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
-      },
-      {
-        "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
-      },
-      {
-        "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
-      },
-      {
-        "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
-      },
-      {
-        "id": 6,
-        "name": "Karney Wylie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn"
-      },
-      {
-        "id": 7,
-        "name": "Cammi Pimbley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu"
-      },
-      {
-        "id": 8,
-        "name": "Gavra Manning",
-        "age": 43,
-        "email": "gmanning7@lycos.com"
-      },
-      {
-        "id": 9,
-        "name": "Zachary Seward",
-        "age": 45,
-        "email": "zseward8@oracle.com"
-      },
-      {
-        "id": 10,
-        "name": "Chucho Norssister",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
-      }
-    ]
-  }
+  "feeds": [
+    {
+      "id": 1,
+      "type": "news",
+      "title": "Why is there stigma involved in running out a non-striker? Because it's all about power",
+      "sub_title": "Turns out one of the laws of the game is immoral if applied, even if why that is so cannot be explained or defended",
+      "desc1": "Was it premeditated? Did Deepti Sharma intend to even bowl the ball? Why didn't she do what she did sooner and not when it got really tight if she was so concerned about the laws of the game? Is she comfortable winning that way? \n\n Did Harmanpreet Kaur, the captain, know about the plan? Was it an individual thing or the team plan? Was a warning given? Whom was the warning given to - the umpire or the batter? Is Harmanpreet comfortable winning that way? \n\n These make for a pretty impressive and incisive set of questions, which have been put to the India bowler and captain. A third set of questions, though, deserves to be asked more than they are being asked at the moment. \n\n Why was Charlie Dean out of her crease? Why was she not watching the ball? Did she premeditate stepping out of her crease before the ball was bowled? Did she ever intend to stay in? How many times did she do it? Is her batting partner comfortable scoring her runs that way? Is this an individual thing or the team plan? \n\n        ",
+      "desc2": "Using a lozenge to attain reverse swing is fine in England till such time as others do it or do it in a different way. The definitions of an ideal pitch that often emerge when a Test ends in two days in Asia disappear when the old ball is seaming around prodigiously in the second innings as it did in the recent two-day Test at The Oval. Such sermons often flow from these two countries, and are sometimes backed by New Zealand and South Africa. \n\n The financial power in the sport now rests with Asia, more particularly India, but when it comes to controlling narratives, Australia and England are still far superior to other teams. They have more articulate players who are trained to deal with media from an early age. Their teams and boards also have the most professional media-management arms. Their commentators - not all of them - serve to carry the message more efficiently than those from other countries. \n\n Look around you. These hierarchies of power exist everywhere. The lower someone is in the power structure - a religious minority, an immigrant, a historically disadvantaged caste, non-male, non-heterosexual - the greater the onus on them to act righteously and carry the weight of their community on their shoulders. Those exercising the power hardly face that scrutiny. If someone from a disadvantaged background earns money and power, they are still liable to be excluded by vague codes. \n\n  It is far from ideal to say something to that effect or question the integrity of a batter the next time one is caught out of his or her crease before a delivery is bowled, because morality is best kept to oneself in a competitive sport played within the rules. But if such a thing happens, it will make batters experience what it is to doubt themselves and worry about the backlash - just as much as bowlers do when effecting these dismissals.",
+      "image1": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_960/lsci/db/PICTURES/CMS/346600/346689.3.jpg",
+      "image2": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_960/lsci/db/PICTURES/CMS/346600/346687.3.jpg"
+    },
+    {
+      "id": 2,
+      "type": "news",
+      "title": "Jhulan Goswami's fairytale Lord's farewell takes unexpected twist",
+      "sub_title": "India claimed a 3-0 sweep of the series but Deepti Sharma took the headlines",
+      "desc1": "It was spine-tingling, tear-jerking stuff. Walking out at Lord's to bat in her final appearance for India, the legend that is Jhulan Goswami was met by a guard of honour, formed by the entire England fielding team, the umpires and her batting partner, Deepti Sharma. \n\n Little did we know that Deepti would play a bigger role in Goswami's swansong than we could ever have expected. \n\n When Deepti, who had scored an unbeaten half-century to drag her side to a respectable total from 29 for 4, ran out Charlie Dean while backing up on the last ball of the match to seal victory for India and a 3-0 ODI series sweep, it guaranteed that Goswami's farewell would be talked about for other reasons besides a sport's goodbye to a champion. \n\n As she walked through that initial guard of honour, Goswami modestly waved to them all in appreciation, enjoying the moment. That it ended with her falling first ball attempting to drive at a fuller delivery that jagged back in from the 17-year-old seamer Freya Kemp - who wasn't born when Goswami made her international debut - didn't matter so much in the context of her goodbye. Goswami's batting wasn't what people had come to see. \n\n It could well have mattered in the context of an innings where she was one of five India players to depart without scoring, although they managed to reach 169 before being bowled out in the 46th over. And again when Dean dragged England to within 17 runs of their target with a brilliant 47 batting at No. 9.",
+      "desc2": "Goswami took a low catch at slip to remove Sophie Ecclestone off Rajeshwari Gayakwad as England slid to 53 for 6 and, with the hosts flagging wildly at 111 for 8, Harmanpreet brought Goswami back into the attack for her eighth over, from which she conceded two runs. \n\n A maiden followed and then, with just five balls left to bowl in a stellar international career, she removed Cross playing across a full, straight one - Goswami's 10,001st ODI delivery - and a child-like grin broke out across Goswami's 39-year-old features as she was mobbed by her team-mates. \n\n Surrounded again at the end of the over, completed with four dot balls, it was over - almost. On the very next ball, from Deepti, Goswami got her hands to an edge at slip off Dean, but what would have been the last wicket to fall and a fairytale finish slipped through her fingers. \n\n At that point England still needed 52 runs from 13.5 overs with just one wicket in hand and it felt very much as though India - even with Goswami bowled out - had it in them to win. \n\n Then Dean and Freya Davies dug in for 35 runs and the match got tense. So it was with a degree of disbelief that it would come to be remembered largely for the way in which it ended. Dean's dismissal was within the rules of the game but it meant that it ended amid a cacophony of boos as well as cheers. \n\n A devastated Dean threw her bat to the ground, tears streaming down her face before composing herself and heading to the Indian huddle to shake their hands. Moments later, Goswami was being chaired to the edge of the field to embark on a lap of honour carrying the Indian flag and flanked by her team-mates in a moment of sweet celebration that couldn't completely mask a slightly bitter undertone",
+      "image1": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_960/lsci/db/PICTURES/CMS/346500/346528.jpg",
+      "image2": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_960/lsci/db/PICTURES/CMS/346500/346525.jpg"
+    },
+    {
+      "id": 3,
+      "type": "video",
+      "head": "INDIA VS SOUTH AFRICA",
+      "sub_head": "2ND T20I, GUWAHATI",
+      "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_720/esci/media/motion/2022/1001/dm_221001_INET_CRIC_indvsa_press_conference_parnell_non-branded_GLOBAL/dm_221001_INET_CRIC_indvsa_press_conference_parnell_non-branded_GLOBAL.jpg",
+      "title": "Parnell: South Africa don't need to panic",
+      "desc": "The allrounder talks about learning from the first T20I and the competition among pacers in the squad",
+      "video": "https://www.espncricinfo.com/embed/video/parnell-south-africa-don-t-need-to-panic-1337577"
+    },
+    {
+      "id": 4,
+      "type": "news",
+      "title": "After Asia Cup glory, Sri Lanka leave for T20 World Cup brimming with confidence",
+      "sub_title": "After a camp in Kandy, Shanaka's team is reaching Australia well in advance to work on skills and plans specific to the conditions on offer",
+      "desc1": "Roughly around this time last year, Dasun Shanaka was gallantly bigging up his side's chances at the T20 World Cup - though, in reality, it was a sentiment borne more out of hope than any real confidence. If our guys perform to their strengths I feel they can go a long way in this tournament, he had said back then. It didn't end too well for them. \n\n Just a month and a bit ago, Sri Lanka had been soundly beaten by Afghanistan in the 2022 men's Asia Cup curtain raiser, and were on the verge of elimination. That story ended on a fairy-tale high. Fast forward to the present, and Shanaka's words have scarcely changed, yet the sense of belief in them could hardly be more different. \n\n\n 'If we make the right decisions on the day and execute our plans, I'm certain we can come out victorious,' he told a packed media room at the Sri Lanka Cricket headquarters on Friday, in the final press interaction prior to the team's departure to Australia for the 2022 T20 World Cup. 'The confidence level is definitely higher [than at the last World Cup], but my concern has always been the process. Even at the last World Cup, I felt we had the talent to at least make the semi-finals. The important thing is your ability to play and deliver on the day.' \n\n The Sri Lanka squad is heading out to Australia two weeks before their opening World Cup first-round game against Namibia on October 16. They were at a skills-intensive training camp in Kandy in the last week of September. Both point to the level of preparation this Sri Lanka side is undertaking. \n\n This extra game time - crucial time - in Australian conditions can only help. Head coach Chris Silverwood, who could hardly have dreamt of a better start to his term in the job after taking charge some six months ago, outlined how he hoped to use this period to work on skills that would be of particular use in Australia.",
+      "desc2": "Winning the Asia Cup was good, but it's just one tournament, he said. We're not thinking about that anymore, that's in the past. Because if we keep focusing on that then we can't look forward and perform as we need to. \n\n In the camp [in Kandy] every player put in a good effort. I was worried that there would be some guys who'd be a bit relaxed after winning the Asia Cup, but it wasn't like that. Everyone practiced with even more intensity than usual, and I'm confident that we can put in good performances at the World Cup \n\n Among those present in the camp were fast bowlers Dushmantha Chameera and Lahiru Kumara, who along with the young Dilshan Madushanka make up the quickest trio of fast bowlers Sri Lanka have ever had at a major tournament, with each capable of speeds above 140kph. While the fitness of the first two had been of some concern, Shanaka confirmed the pair had come away from the camp in fine fettle. \n\n And it's that feeling that has made this Sri Lanka side heading out to Australia, while far from the finished article, one that seems to be gradually evolving into something more than the one that went to the UAE both last year and last month.",
+      "image1": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_960/lsci/db/PICTURES/CMS/334900/334953.4.jpg",
+      "image2": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_960/lsci/db/PICTURES/CMS/338800/338849.4.jpg"
+    },
+    {
+      "id": 5,
+      "type": "video",
+      "head": "CAPITALS VS TIGERS",
+      "sub_head": "LEGENDS LEAGUE, CUTTACK",
+      "title": "Watch - Masakadza leads Capitals to victory",
+      "desc": "Half-centuries from Jesse Ryder and Mohammad Kaif go in vain for Tigers",
+      "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_720/esci/media/motion/2022/0930/dm_220930_INET_CRIC_ll_highlights_m11_non-branded_GLOBAL/dm_220930_INET_CRIC_ll_highlights_m11_non-branded_GLOBAL.jpg",
+      "video": "https://www.espncricinfo.com/embed/video/legends-league-cricket-hamilton-masakadza-leads-india-capitals-to-victory-over-manipal-tigers-1337370"
+    },
+    {
+      "id": "6",
+      "type": "news",
+      "title": "Gaikwad 'waiting for the moment' to play at 'electrifying' Chepauk in CSK colours in IPL 2023",
+      "sub_title": "Gaikwad 'waiting for the moment' to play at 'electrifying' Chepauk in CSK colours in IPL 2023",
+      "desc1": "Since Covid-19 hit, the IPL has had to adapt and make do without its usual home-and-away format. In 2020, it took place behind closed doors in the UAE. In 2021, it had to be suspended midway and then shifted overseas. In 2022, all 74 matches were held in Mumbai, Pune, Kolkata and Ahmedabad. Next year, the BCCI believes the tournament will go back to normal, which means the Super Kings will once again be back at their fortress. \n\n Gaikwad has been in Chennai over the last week or so, playing for India A against New Zealand A. While he has been part of the Super Kings side since 2019, he made his debut only in 2020 and has never had the experience of playing in front of the Chepauk crowd in the yellow jersey. \n\n I had seen the atmosphere, I had seen the electrifying noise. I have experienced everything. So, obviously that was going on in mind when I would practise for two days [with India A in Chennai], Gaikwad said in a video for the Super Kings website. I was imagining the crowd and CSK entering the stadium. So actually, I am just waiting for the moment. But the first time when I played here was actually special because I feel this is the place where I started my journey. Coming to CSK and getting to learn a lot of things, getting to know the first experience of what it is at the higher level. So this is the place where it all started ",
+      "desc2": "Shardul Thakur, who was also part of the India A series, was hit by nostalgia too. Having represented the Super Kings for four seasons, the fast bowler was picked up by Delhi Capitals in the 2022 auction. He was a vital cog in the CSK set-up and signed off his stint as their leading wicket-taker in IPL 2021. \n\n It feels really great, I mean, the moment I entered the stadium, it felt all nostalgic, Thakur said. Yes, I have had my times with CSK, I have played a few games here, but even before that, I have played Ranji [Trophy] games. 2010 was my first game here in Chepauk. The stadium and the ground have changed a lot since then but I would say the weather is still the same. [It's an] amazing experience, I would always look forward to playing in Chepauk whenever there is an opportunity. \n\n The Chennai crowd really got behind the India A team too. If the first one-dayer had 200-odd spectators, it only grew, in both numbers and noise, until roughly 2,000 people were on hand to watch the home side produce a 3-0 sweep. They cheered especially loudly every time Thakur ran in and pick up a wicket. Chants of CSK, CSK rang around the stadium whenever Gaikwad produced a good piece of fielding or whenever he hit those pleasing cover drives. \n\n It was not a very kind stint towards him. But, in 2021, he made a mark from game one till the finals. He was the top performer of CSK, and he actually delivered to everyone's expectations. It's good to see when a youngster comes and delivers for the team and straightaway makes the mark in lifting the trophy I'd say - not only in the league phase or knockouts but to lift the trophy.",
+      "image1": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_960/lsci/db/PICTURES/CMS/320600/320684.4.jpg",
+      "image2": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_960/lsci/db/PICTURES/CMS/346300/346388.4.jpg"
+    },
+    {
+      "id": "7",
+      "type": "video",
+      "head": "25 QUESTIONS",
+      "sub_head": "AMELIA KERR",
+      "title": "Which three batters would make up Amelia Kerr's dream hat-trick?",
+      "desc": "And who would she pick from her opponents to have in her own team? The New Zealand allrounder takes 25 questions",
+      "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_720/lsci/db/PICTURES/CMS/334400/334494.6.jpg",
+      "video": "https://www.espncricinfo.com/embed/video/25-questions-with-amelia-kerr-which-three-batters-would-make-up-amelia-kerr-dream-hat-trick-1337184"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "title": "Rovman Powell: 'CPL title would mean the world to me'",
+      "desc": "Rovman Powell: 'CPL title would mean the world to me'",
+      "date": "Sep 30, 2022",
+      "video": "https://www.espncricinfo.com/embed/video/rovman-powell-cpl-title-would-mean-the-world-to-me-1337382",
+      "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_320/esci/media/motion/2022/0930/dm_220930_INET_CRIC_cpl_final_pre_pc_non-branded_GLOBAL/dm_220930_INET_CRIC_cpl_final_pre_pc_non-branded_GLOBAL.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Arshdeep Singh: 'The main motive of our team is adaptability'",
+      "desc": "Fast bowler says that he was told about featuring in the team's plans in the back end of the IPL",
+      "date": "Sep 28, 2022",
+      "video": "https://www.espncricinfo.com/embed/video/ind-vs-sa-2022-1st-t20i-arshdeep-singh-the-main-motive-of-our-team-is-adaptability-1337147",
+      "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_320/esci/media/motion/2022/0928/dm_220928_generic_interview_arshdeeppc/dm_220928_generic_interview_arshdeeppc.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Hardik Pandya - 'Green played some really good shots'",
+      "desc": "He talks about Bumrah's absence, his own performance, and if Green opening the batting surprised India",
+      "date": "Sep 20, 2022",
+      "video": "https://www.espncricinfo.com/embed/video/ind-v-aus-1st-t20i-hardik-pandya-green-played-some-really-good-shots-1335761",
+      "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_320/esci/media/motion/2022/0920/dm_220920_generic_intervire_hardikpc/dm_220920_generic_intervire_hardikpc.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Devine: It's about building on what we achieved at CWG 2022",
+      "desc": "On coach Ben Sawyer: He's got a very clear direction for this group, and is very organised",
+      "date": "Sep 14, 2022",
+      "video": "https://www.espncricinfo.com/embed/video/wi-vs-nz-2022-sophie-devine-it-s-about-building-on-what-we-achieved-at-cwg-2022-1334650",
+      "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_320/esci/media/motion/2022/0914/dm_220914_INET_CRIC_press_conference_sophie_devine_non-branded_GLOBAL/dm_220914_INET_CRIC_press_conference_sophie_devine_non-branded_GLOBAL.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Harmanpreet Kaur: 'Even big players need a mental-skills coach'",
+      "desc": "Harmanpreet Kaur: 'Even big players need a mental-skills coach'",
+      "date": "Sep 09, 2022",
+      "video": "https://www.espncricinfo.com/embed/video/harmanpreet-kaur-even-big-players-need-a-mental-skills-coach-1333856",
+      "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_320/esci/media/motion/2022/0909/dm_220909_generic_interview_HK/dm_220909_generic_interview_HK.jpg" 
+    },
+    {
+      "id": "6",
+      "title": "Stead: We need to learn to throw that killer punch",
+      "desc": "NZ coach talks about the 3-0 series loss, how Australia kept fighting back, and the pitches in Cairns",
+      "date": "Sep 12, 2022",
+      "video": "https://www.espncricinfo.com/embed/video/aus-vs-nz-2022-coach-gary-stead-we-need-to-learn-to-throw-that-killer-punch-1334367",
+      "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_320/esci/media/motion/2022/0912/dm_220912_GENERIC_INTERVIEW_GARYSTEAD/dm_220912_GENERIC_INTERVIEW_GARYSTEAD.jpg"
+ 
+    },
+    {
+      "id": "7",
+      "title": "Shaun Tait: 'Got goosebumps watching the Pakistan bowlers",
+      "desc": "NZ coach talks about the 3-0 series loss, how Australia kept fighting back, and the pitches in Cairns",
+      "date": "Sep 20, 2022",
+      "video": "https://www.espncricinfo.com/embed/video/aus-vs-nz-2022-coach-gary-stead-we-need-to-learn-to-throw-that-killer-punch-1334367",
+      "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_320/esci/media/motion/2022/0905/dm_220905_asiacup_interview_shauntait/dm_220905_asiacup_interview_shauntait.jpg"
+ 
+    },
+    {
+      "id": "8",
+      "title": "Brook: Pakistan almost feels like home",
+      "desc": "NZ coach talks about the 3-0 series loss, how Australia kept fighting back, and the pitches in Cairns",
+      "date": "Sep 12, 2022",
+      "video": "https://www.espncricinfo.com/embed/video/aus-vs-nz-2022-coach-gary-stead-we-need-to-learn-to-throw-that-killer-punch-1334367",
+      "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_320/esci/media/motion/2022/0924/dm_220924_COM_CRIC_Presser_Brook_Pakistan_almost_feels_like_home_20220924_GLOBAL/dm_220924_COM_CRIC_Presser_Brook_Pakistan_almost_feels_like_home_20220924_GLOBAL.jpg"
+ 
+    },
+    {
+      "id": "9",
+      "title": "When Dravid just stopped short of saying",
+      "desc": "NZ coach talks about the 3-0 series loss, how Australia kept fighting back, and the pitches in Cairns",
+      "date": "Sep 12, 2022",
+      "video": "https://www.espncricinfo.com/embed/video/aus-vs-nz-2022-coach-gary-stead-we-need-to-learn-to-throw-that-killer-punch-1334367",
+      "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_320/esci/media/motion/2022/0903/dm_220903_asiacup_intewrview_nabi/dm_220903_asiacup_intewrview_nabi.jpg"
+ 
+    }
+  ]
+
+}
